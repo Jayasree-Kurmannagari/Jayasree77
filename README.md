@@ -1,6 +1,7 @@
 ### Hello World!!!
 Welcome...\
 You may not see earth-shattering content here, but everything is done with sincere effort.\
+Take a look around and 
 Have a wonderful day
 
 Want to have a chat?\
