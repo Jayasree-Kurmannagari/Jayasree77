@@ -5,7 +5,8 @@ Take a look around and
 Have a wonderful day
 
 Want to have a chat?\
-📫 https://twitter.com/sudo_Jayasree
+📫[Twitter]( https://twitter.com/sudo_Jayasree)
+📫[Mail](jayasree0708@gmai.com)
 <!--
 **Jayasree77/Jayasree77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
