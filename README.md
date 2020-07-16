@@ -5,9 +5,10 @@ Take a look around and
 Have a wonderful day
 
 Want to have a chat?\
-<a href="https://twitter.com/sudo_Jayasree"><img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-48x48.png"></a>
-<a href="https://www.linkedin.com/in/jayasree0708/"><img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png"></a>
-<a href="mailto:jayasree0708@gmail.com"><img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/email-48x48.png"></a>
+<a href="https://twitter.com/sudo_Jayasree"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"></a><br>
+<a href="https://www.linkedin.com/in/jayasree0708/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a><br>
+<a href="mailto:jayasree0708@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"></a><br>
+<a href="https://codepen.io/Jayasree_0708"><img src="https://www.vectorlogo.zone/logos/codepen/codepen-ar21.svg"></a>
 
 
 
