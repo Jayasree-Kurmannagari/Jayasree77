@@ -5,8 +5,15 @@ Take a look around and
 Have a wonderful day
 
 Want to have a chat?\
-📫[Twitter]( https://twitter.com/sudo_Jayasree)
-📫[Mail](jayasree0708@gmai.com)
+<a href="https://twitter.com/sudo_Jayasree"><img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-48x48.png"></a>
+<a href="https://www.linkedin.com/in/jayasree0708/"><img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png"></a>
+<a href="jayasree0708@gmail.com"><img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/email-48x48.png"></a>
+
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jayasree77)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Jayasree77/Jayasree77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
