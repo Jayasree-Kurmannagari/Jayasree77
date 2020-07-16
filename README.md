@@ -7,7 +7,7 @@ Have a wonderful day
 Want to have a chat?\
 <a href="https://twitter.com/sudo_Jayasree"><img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-48x48.png"></a>
 <a href="https://www.linkedin.com/in/jayasree0708/"><img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png"></a>
-<a href="https://mail.google.com/mail/jayasree0708@gmail.com"><img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/email-48x48.png"></a>
+<a href="mailto:jayasree0708@gmail.com"><img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/email-48x48.png"></a>
 
 
 
