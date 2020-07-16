@@ -5,10 +5,10 @@ Take a look around and
 Have a wonderful day
 
 Want to have a chat?\
-<a href="https://twitter.com/sudo_Jayasree"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"></a>
-<a href="https://www.linkedin.com/in/jayasree0708/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"></a>
-<a href="mailto:jayasree0708@gmail.com"><img src="https://img.icons8.com/dusk/64/000000/gmail-login.png"></a>
-<a href="https://codepen.io/Jayasree_0708"><img src="https://img.icons8.com/ios-filled/50/000000/codepen.png"></a>
+<a href="https://twitter.com/sudo_Jayasree"><img src="https://seeklogo.com/images/T/twitter-icon-circle-black-logo-35827D553B-seeklogo.com.png" width="50px"></a>
+<a href="https://www.linkedin.com/in/jayasree0708/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRWbEb56w46ZpqsY3SrPYF5XRserBHhipXU6A&usqp=CAU" width="50px"></a>
+<a href="mailto:jayasree0708@gmail.com"><img src="https://i7.pngguru.com/preview/945/191/592/computer-icons-gmail-scalable-vector-graphics-email-gmail-size-icon.jpg" width="50px"></a>
+<a href="https://codepen.io/Jayasree_0708"><img src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Fill-Black-Large.png" width="50px"></a>
 
 
 
