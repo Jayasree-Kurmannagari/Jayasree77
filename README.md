@@ -5,8 +5,8 @@ Take a look around and
 Have a wonderful day
 
 Want to have a chat?\
-<a href="https://twitter.com/sudo_Jayasree"><img src="https://img.icons8.com/dusk/64/000000/twitter.png"></a>
-<a href="https://www.linkedin.com/in/jayasree0708/"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png"></a>
+<a href="https://twitter.com/sudo_Jayasree"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"></a>
+<a href="https://www.linkedin.com/in/jayasree0708/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"></a>
 <a href="mailto:jayasree0708@gmail.com"><img src="https://img.icons8.com/dusk/64/000000/gmail-login.png"></a>
 <a href="https://codepen.io/Jayasree_0708"><img src="https://img.icons8.com/ios-filled/50/000000/codepen.png"></a>
 
