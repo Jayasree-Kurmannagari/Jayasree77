@@ -12,7 +12,7 @@ Want to have a chat?\
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jayasree77)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jayasree77&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
