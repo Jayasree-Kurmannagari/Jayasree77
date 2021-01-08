@@ -7,7 +7,7 @@ Have a wonderful day
 Want to have a chat?\
 <a  target="_blank" href="https://twitter.com/sudo_Jayasree"><img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-48x48.png"></a>
 <a href="https://www.linkedin.com/in/jayasree0708/" target="_blank"><img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png"></a>
-<a href="https://codepen.io/Jayasree_0708" target="_blank"><img src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Fill-Black-Large.png" width="50px"></a>
+
 
 
 
